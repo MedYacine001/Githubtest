@@ -1,0 +1,33 @@
+body{
+  background-color: ;
+}
+
+h1{
+  color: darkred;
+  text-align: center;
+}
+
+h2{
+  color: darkgreen;
+}
+
+h4{
+  color: darkblue;
+}
+
+/*Link*/
+a{
+ text-decoration-line: none;
+}
+
+/* normal image*/
+#normal{
+  height: 100px;
+  width: 100px
+}
+
+/*image as link*/
+#aslink{
+  height: 100px;
+  width: 200px;
+}
